@@ -1,0 +1,28 @@
+{
+    "name": "FricFrac B-Coin",
+    "symbol": "ffcb",
+    "description": "Investment Bid made easy",
+    "seller_fee_basis_points": 500,
+    "image": "0.svg",
+    "attributes": [
+        //; ipfs key gen -t rsa -s 3072 --ipns-base b58mh ffbcoin
+        //; ipfs key list -l --ipns-base b58mh | grep -e ff
+        {"trait_type": "tokenid", "value": ""},
+        {"trait_type": "coin type", "value": "B-Coin"},
+        {"trait_type": "CO2 footprint", "value": "487g"},
+        {"trait_type": "commission", "value": "2.5%"},
+        {"trait_type": "borrow rate", "value": "2.1%"}, 
+        {"trait_type": "lending rate", "value": "1.6%"},
+        {"trait_type": "bonds APY", "value": "1.0%"},
+        {"trait_type": "operating fees", "value": "0.3%"},
+        {"trait_type": "e-waste tax", "value": "1.5%"},
+        {"trait_type": "income tax", "value": "13%"},
+        {"trait_type": "mutable", "value": "QmeQA9xgtHkxmXoT6wCwNrNWYxMQYBffU7tmx8mrGv1UmU"}
+    ],
+    "properties": {
+        "creators": [{"address": "$minter", "share": 100}],
+        "files": [{"uri": "0.svg", "type": "image/svg"}]
+    },
+    "collection": {"name": "fricfrac coins", "family": "ff-instruments"}
+}
+

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="230.39801mm"
+   height="196.35378mm"
+   viewBox="0 0 230.39801 196.35378"
+   version="1.1"
+   id="svg17121"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17118">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path17856" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker18614"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path18612" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path17859" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(5.2372704,-0.18435258)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart);marker-end:url(#marker18614)"
+       d="M 194.41041,164.05107 H 27.269696 V 30.934683"
+       id="path17509" />
+    <path
+       style="fill:none;stroke:#008080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 27.269696,30.934683 C 39.497779,116.9591 90.464749,154.1626 194.41041,164.05107"
+       id="path18739" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 47.070221,99.935108 88.9085,139.18217"
+       id="path19065" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 27.269696,164.05107 133.0526,44.046418"
+       id="path19329" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 67.454959,118.3764 0.09074,45.70489"
+       id="path20349" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 67.454959,118.3764 -40.218318,0.1601"
+       id="path20349-8" />
+    <path
+       id="path21363"
+       style="fill:none;stroke:#800080;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.269696,30.934683 c 9.071933,68.026974 10.736885,66.893051 21.244631,74.362987 l 45.668883,32.4659 c 19.03849,13.53442 44.62142,26.15472 100.2272,26.28747" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="126.06432"
+       y="141.77187"
+       id="text28243"><tspan
+         id="tspan28241"
+         style="stroke-width:0.264583"
+         x="126.06432"
+         y="141.77187"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan54531">stable</tspan>Coin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.209122"
+       y="67.838707"
+       id="text33197"><tspan
+         id="tspan33195"
+         style="stroke-width:0.264583"
+         x="47.209122"
+         y="67.838707"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan38563">pmf</tspan>Coin</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.950367,73.002396 c 2.475964,-3.560267 5.357873,-2.18758 8.607904,-4.240877"
+       id="path75496" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.30068,150.62255 c 3.13951,-4.53443 7.50626,-3.71773 11.44778,-7.52878"
+       id="path75498" />
+    <circle
+       style="opacity:1;fill:#008080;stroke:none;stroke-width:0.665001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path75807"
+       cx="37.945103"
+       cy="73.049942"
+       r="0.57753837" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.30068,150.62255 c 3.13951,-4.53443 7.50626,-3.71773 11.44778,-7.52878"
+       id="path3018" />
+    <circle
+       style="fill:#800080;stroke:none;stroke-width:0.867916;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path75807-3"
+       cx="115.44272"
+       cy="150.41431"
+       r="0.75376546" />
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+{
+    "name": "FricFrac A-Coin",
+    "symbol": "ffca",
+    "description": "StartUp investment made easy",
+    "seller_fee_basis_points": 500,
+    "image": "0.svg",
+    "attributes": [
+        {"trait_type": "mutable key", "value": "QmU4DvuSm4Y2pf438tKfxSfSnzinSyQt7NRa35FibnAHjX"},
+        {"trait_type": "coin type", "value": "A-Coin"},
+        {"trait_type": "CO2 footprint", "value": "487g"},
+        {"trait_type": "commission", "value": "2.5%"},
+        {"trait_type": "borrow rate", "value": "2.1%"}, 
+        {"trait_type": "lending rate", "value": "1.6%"},
+        {"trait_type": "bonds APY", "value": "1.0%"},
+        {"trait_type": "operating fees", "value": "0.3%"},
+        {"trait_type": "e-waste tax", "value": "1.5%"},
+        {"trait_type": "income tax", "value": "13%"}
+    ],
+    "properties": {
+        "creators": [{"address": "$minter", "share": 100}],
+        "files": [{"uri": "0.svg", "type": "image/svg"}]
+    },
+    "collection": {"name": "ffa-coin", "family": "ff-instruments"}
+}
+
