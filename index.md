@@ -149,6 +149,7 @@ signature: xxx
 - deal3address
 ...
 ```
+```
 --- # wining bids
 # [id,num,inv,yield]
 - [bidid1, 10_000,100%, 125%]
