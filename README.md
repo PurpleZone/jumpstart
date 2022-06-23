@@ -62,7 +62,7 @@ we are currently validating our approach with finantical professional and entrep
 
 ### in French !
 ```
-7. Quel est le problème ?
+Quel est le problème ?
 Décrivez le problème présent dans l'administration que vous souhaitez résoudre.
 Cette question est requise *
 Décrivez quel problème vous avez identifié et vous souhaitez résoudre.
@@ -87,7 +87,7 @@ ces dernier de trouvant pas de moyen concret pour faciliter la réalisation et l
 
 ---
 
-8. Qui est concerné par ce problème ?
+Qui est concerné par ce problème ?
 les jeunes diplomés ayant des idées fraiches (trop jeunes, ou sans experience relevantes)
 et les seniors qui ne retrouvent plus de travail (trop vieux, ou trop chers)
 
