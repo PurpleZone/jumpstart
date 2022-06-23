@@ -130,6 +130,7 @@ bid: 125%
 signature: xxx
 ...
 ```
+```
 --- # deal token
 name: ffc-deal
 symbol: ffcd
@@ -140,17 +141,21 @@ roi: 150%
 fee: 3%
 signature: xxx
 ...
+```
+```
 --- # deal bundle
 - deal1address
 - deal2address
 - deal3address
 ...
+```
 --- # wining bids
 # [id,num,inv,yield]
 - [bidid1, 10_000,100%, 125%]
 - [bidid2, 5_000,40%, 135%]
 - [bidid3, 3_000,100, 125%]
 - ...
+```
 
 
 +[Michel](https://duckduckgo.com/?q=Michel+Combes+blockchain)
