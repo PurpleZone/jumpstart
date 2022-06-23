@@ -12,7 +12,7 @@ as it removes barrier to anyone with cryptocurrency to support
 startup projects.
 
 
-![auctionmaker](autionmaker.svg)
+![auctionmaker](auctionmaker.svg)
 <style>img[alt=autionmaker] { width: 100%; }</style>
 
 
