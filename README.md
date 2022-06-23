@@ -18,6 +18,46 @@ microVenture: micro venture plateform when funds meet innovation
 
 civicChallenge: https://civicchallenge.typeform.com/to/z8eeBorO
 
+### in English
+
+Problem to be solved:
+  Local economic development is closely to innovation incentive and programs.
+  Most startups struggle to access public fundings due to a large competition
+  and a high complexity of application administration.
+  
+Affected people:
+  young entrepreunors and innovators, small investors,
+  traditional VC and angels, incubators, university laboratories
+  and local economic development organization/entities.
+  
+Proposed Solution:
+We use blockchain technology to allow anyone to participate innovation promotion and funding
+vi cash advances.
+
+We frationalize and syndicate cash advances so that capital offers
+meet startup demands in the most optimal way. A proovably fair aution
+system automate smart contract in a similar way automatic deal maker operates
+
+The plateform is a participatory platform where startup propose deals
+and "advertize" their projects while investors ranks deals they want
+to participate in. Each event on participant wallets triggers a new
+evaluation of the optimum allocation of capital to the poll of winning
+deals.  This Allows bests outcome for both startups and the investors
+in quasi-realtime,
+opening risk capital markets to small innovation projects and startups.
+
+Next Steps:
+Aution algorytm validation and simulation.
+Prototype Development (Simple Lovable Complete product)
+optimization and transcription of financal algorythm to innovation sector.
+Test at scale with an existing incubator.
+
+Current State:
+We have the overal atchitecture defined
+and a realistic simulation modules
+we are currently validating our approach with finantical professional and entrepreunors
+
+
 ---
 
 ### in French !
